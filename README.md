@@ -15,6 +15,7 @@ website, powered by Convex and OpenAI's Assistants API.
 - An example of web scraping is in [`convex/ingest`](./convex/ingest/load.ts)
 - The assistant initialization and uploading of data is in [`convex/init.ts`](./convex/init.ts)
 - The public endpoints for the backend are in [`convex/messages.ts`](./convex/messages.ts)
+- The answering logic is in [`convex/serve.ts`](./convex/serve.ts)
 
 ## Running the App
 
