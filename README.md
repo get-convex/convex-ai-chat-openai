@@ -3,7 +3,7 @@
 An example of using OpenAI's [Assistants API](https://platform.openai.com/docs/assistants/overview)
 to build an AI chat with context retrieval.
 
-![Screenshot of a docs website with AI chat modal open](./screenshot.png "AI chat UI")
+![Screenshot of a website with AI chat modal open](./screenshot.png "AI chat UI")
 
 ## Overview:
 
