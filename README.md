@@ -33,7 +33,7 @@ Convex dashboard and the web app running on `localhost`.
 For the chat itself to work, you must configure the following environment
 variables on the Convex dashboard:
 
-- `OPEN_API_KEY` set to an [OpenAI](https://platform.openai.com/) API key
+- `OPENAI_API_KEY` set to an [OpenAI](https://platform.openai.com/) API key
   (should start with `sk-`)
 - `ASSISTANT_ID` set to the assitant ID, which you can get from the OpenAI
   dashboard or by running
